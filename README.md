@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Dm Me on Skype uday.ankoliya
-OR Email to mail:udayakoliya@gmail.com
+OR Email to udayakoliya@gmail.com
 
 <!---
 udayankoliya/udayankoliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
